@@ -2,9 +2,7 @@
 
 # Documentação: Gerenciamento de Tarefas com Sequelize e SQLite
 
-## Introdução
-
-Esta documentação descreve o processo de configuração de um projeto Node.js usando Sequelize e SQLite. Inclui etapas para configurar o projeto, definir modelos, executar migrações e seeders, e iniciar o servidor.
+Skills: sqlite, nodejs, APIREST, Postman
 
 ## Passos de Configuração
 
